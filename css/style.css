@@ -84,7 +84,19 @@ header {
        margin-bottom: 0;
        font-size: 50px;
        text-align: center;
-       padding-top: 18px;
+       padding-top: 1px;
+       color: black;
+
+     }
+     .text-centero {
+       /* text-shadow: black 0.1em 0.1em 0.9em; */
+       font-weight: 200;
+       text-transform: uppercase;
+       margin-top: 0;
+       margin-bottom: 0;
+       font-size: 18px;
+       text-align: center;
+       padding-top: 1px;
        color: black;
 
      }
@@ -121,6 +133,5 @@ header {
       font-family: 'Bungee', cursive;
     }
     footer {
-      font-size: 20px;
-      background-color: black;
-    }
+      font-size: 10px;
+          }
